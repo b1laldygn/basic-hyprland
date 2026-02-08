@@ -1,3 +1,5 @@
+NOTE: THIS SCRIPT CREATES ANOTHER DESKTOP FILE !!!
+
 
 # 📝 Hyprland Basic Edition
 
